@@ -6,7 +6,7 @@ This repository includes the codes used in the work of Ollivier Persistent Ricci
   <img src="https://github.com/ExpectozJJ/Ollivier-Persistent-Ricci-Curvature/blob/master/img/toc.png" title="toc"/>
 </p>
 
-It can be seen that the geometrical information gathered from ORC also plays an important key role in differentiating osmolytes in hydrogen bonding networks. 
+It can also be seen that the geometrical information gathered from ORC also plays as an unique feature in differentiating osmolytes in hydrogen bonding networks. 
 
 <p align="center">
   <img src="https://github.com/ExpectozJJ/Ollivier-Persistent-Ricci-Curvature/blob/master/img/osmolyte.png" title="hbn"/>
