@@ -3,7 +3,7 @@
 This repository includes the codes used in the work of Ollivier Persistent Ricci Curvature in Protein-Ligand Binding Affinity Predictions. 
 
 <p align="center">
-<img src="https://github.com/ExpectozJJ/Ollivier-Persistent-Ricci-Curvature/tree/master/img/toc.png" title="OPRC" width="300" >
+<img src="https://github.com/ExpectozJJ/Ollivier-Persistent-Ricci-Curvature/tree/master/img/toc.png" title="toc" width="300" >
 </p>
 
 ## Cite 
