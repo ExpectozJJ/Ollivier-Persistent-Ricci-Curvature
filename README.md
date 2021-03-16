@@ -1,4 +1,4 @@
-# Persistent-Ollivier-Ricci-Curvature
+# Ollivier-Persistent-Ricci-Curvature
 Applications of Ollivier Ricci Curvature in Biomolecular Data Analysis 
 
 ## Cite 
