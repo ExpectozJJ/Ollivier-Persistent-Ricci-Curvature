@@ -16,3 +16,4 @@ It can also be seen that the geometrical information gathered from ORC also play
 If you use this code in your research, please considering cite our paper:
 
 * Wee, J., & Xia, K. (2020). Ollivier persistent Ricci curvature (OPRC) based molecular representation for drug design. arXiv preprint arXiv:2011.10281.
+* JunJie Wee and Kelin Xia, "Ollivier persistent Ricci curvature (OPRC) based machine learning for protein-ligand binding affinity prediction", Journal of Chemical Information and Modeling, accepted (2021)
